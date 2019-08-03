@@ -1,4 +1,4 @@
-# usage: given a newline-separated list of words into words.txt, simply run this script to convert them to a json list
+# usage: given a newline-separated list of words in words.txt, simply run this script to convert them to a json list
 
 import json
 
