@@ -4,6 +4,10 @@ A basic [Tracery](http://tracery.io)-powered [Twitter bot (@killthismachine)](ht
 
 The `utils` directory contains some Python helper scripts.
 
+*Inactive as of October 24, 2020.*
+
+![](screenshot.png)
+
 
 ## Sources
 
