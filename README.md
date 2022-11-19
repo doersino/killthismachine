@@ -4,7 +4,7 @@ A basic [Tracery](http://tracery.io)-powered [Twitter bot (@killthismachine)](ht
 
 The `utils` directory contains some Python helper scripts.
 
-*Inactive as of October 24, 2020.*
+*Inactive as of October 24, 2020, account deleted as of November 20, 2022.*
 
 ![](screenshot.png)
 
